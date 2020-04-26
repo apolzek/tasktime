@@ -5,6 +5,8 @@
 
 *gcc:* **(Debian 8.3.0-6) 8.3.0**
 
+*GNU Make* **4.2.1**
+
 Run: ```$make``` to compile and generate the executable
 
-![img](https://i.imgur.com/4nDzjYz.png)
+![img](https://i.imgur.com/FZTIiIS.png)
