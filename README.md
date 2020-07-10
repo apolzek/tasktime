@@ -10,6 +10,8 @@ This project aims to make life easier for Linux administrators. You can automate
 *GNU Make* **GNU Make 4.2.1**
 
 
+![](https://img.icons8.com/clouds/2x/linux-client.png)
+
 1) Run: ```$make``` to compile and generate the executable
 
 2) See the examples and start using:
