@@ -33,4 +33,4 @@ action: Checks the HTTP return code for a URL every 1 hour
 tasktime -H -t 1 -S "time curl -I --silent http://ifconfig.me | grep HTTP"
 ```
 
-![img](https://i.imgur.com/FZTIiIS.png)
+![img](https://i.imgur.com/mFabweN.png)
