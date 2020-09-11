@@ -1,6 +1,11 @@
 # tasktime
 🐧 Delegates the execution of tasks from time to time - GNU/Linux systems 
 
+```
+wget https://github.com/apolzek/tasktime/archive/<version>.zip
+wget https://github.com/apolzek/tasktime/archive/0.2.zip
+```
+
 ## Purpose
 
 This project aims to make life easier for Linux administrators. You can automate a task simply and quickly.
