@@ -2,9 +2,9 @@
 🐧 Delegates the execution of tasks from time to time - GNU/Linux systems 
 
 ```
-wget https://github.com/apolzek/tasktime/archive/0.2.zip
-unzip 0.2.zip
-mv tasktime-0.2/tasktime /usr/local/bin/
+wget https://github.com/apolzek/tasktime/archive/2020.9.zip
+unzip 2020.9.zip
+mv tasktime-2020.9/tasktime /usr/local/bin/
 tasktime
 ```
 
