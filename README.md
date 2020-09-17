@@ -4,7 +4,7 @@
 ```
 wget https://github.com/apolzek/tasktime/archive/2020.9.zip
 unzip 2020.9.zip
-mv tasktime-2020.9/tasktime /usr/local/bin/
+sudo chmod +x tasktime-2020.9/tasktime && mv tasktime-2020.9/tasktime /usr/local/bin/
 tasktime
 ```
 
