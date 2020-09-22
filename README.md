@@ -1,5 +1,5 @@
 # tasktime
-🐧 Delegates the execution of tasks from time to time - GNU/Linux systems 
+🐧 Executes commands/scripts at scheduled intervals. GNU/Linux systems
 
 ```
 wget https://github.com/apolzek/tasktime/archive/2020.9.zip
