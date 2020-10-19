@@ -1,10 +1,13 @@
 # tasktime
 🐧 Executes commands/scripts at scheduled intervals. GNU/Linux systems
 
+## Install and Use
+
 ```
-wget https://github.com/apolzek/tasktime/archive/2020.9.zip
-unzip 2020.9.zip
-sudo chmod +x tasktime-2020.9/tasktime && sudo mv tasktime-2020.9/tasktime /usr/local/bin/
+wget https://github.com/apolzek/tasktime/archive/tasktime-v2020-10.tar.gz 
+tar -xf tasktime-v2020-10.tar.gz
+cd tasktime-tasktime-v2020-10/
+chmod +x tasktime && sudo mv tasktime /usr/local/bin/
 tasktime
 ```
 
