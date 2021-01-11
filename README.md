@@ -1,5 +1,5 @@
 # tasktime
-🐧 Executes commands/scripts at scheduled intervals. GNU/Linux systems
+:watch: :penguin: Executes commands/scripts at scheduled intervals. GNU/Linux systems
 
 ## Install and Use
 
