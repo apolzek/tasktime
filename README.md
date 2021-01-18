@@ -40,5 +40,5 @@ tasktime -s -t 4 -S '[ "$(ls -A /var/log)" ] && echo "Not empty" || echo "Empty"
 
 action: Checks the HTTP return code for a URL every 1 hour
 ```
-tasktime -H -t 1 -S "time curl -I --silent http://ifconfig.me | grep HTTP"
+tasktime -H -t 1 -S "curl -I --silent http://ifconfig.me | grep HTTP"
 ```
