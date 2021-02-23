@@ -1,5 +1,5 @@
 # tasktime
-:watch: :penguin: Executes commands/scripts at scheduled intervals. Similar to Linux 'watch'. [GNU/Linux]
+:watch: :penguin: Run commands and scripts at scheduled intervals. Similar to 'watch' command [ GNU/Linux ]
 
 ## Install and Use
 
