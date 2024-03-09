@@ -1,5 +1,5 @@
 # tasktime
-:watch: :penguin: Run commands and scripts at scheduled intervals
+Run commands and scripts at scheduled intervals
 
 ## Install and Use
 
